@@ -1,8 +1,11 @@
 ========
-jobvite
+Django - jobvite
 =========
 
 **This package is forked from: https://github.com/mozilla/django-jobvite**
+
+My Goal is not to take credit away from the original mozilla developers who built this awesome wrapper, but my goal was to clean up some loose ends and make it available as a pypi package. 
+
 jobvite is a `Django`_ application that provides a friendly interface to
 Jobvite.
 
