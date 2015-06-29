@@ -7,7 +7,7 @@ setup(
     author = 'Karthik Ravindra',
     author_email = 'karthik.ravindra@gmail.com',
     url = 'https://github.com/karthikbgl/jobvite',
-    download_url = 'https://github.com/karthikbgl/jobvite/tarball/0.1', # I'll explain this in a second
+    download_url = 'https://github.com/karthikbgl/jobvite/archive/0.1.tar.gz',
     keywords = ['python', 'django', 'jobvite'],
     classifiers = [],
 )
