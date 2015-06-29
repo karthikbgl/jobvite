@@ -12,6 +12,7 @@ Installation
 ------------
 Fetch django-jobvite::
 
+    pip install jobvite==0.1.1
   
 
 Add ``django_jobvite`` to ``INSTALLED_APPS`` in ``settings.py``: ::
