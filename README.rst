@@ -57,3 +57,9 @@ filter parameters. Example JSON: ::
 
 jobvite aims at supporting various versions of django - including south and django migrations.
 
+Management Commands:
+
+    python manage.py syncjobvite
+    
+This management command needs to be setup as a cron to sync jobvite job listings
+
